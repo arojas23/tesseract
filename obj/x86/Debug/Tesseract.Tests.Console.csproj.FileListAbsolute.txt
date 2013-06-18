@@ -1,0 +1,29 @@
+C:\Users\Dan\Downloads\tesseract-master\tesseract-master\Tesseract.Tests.Console\bin\Debug\Data\Binarization\neo-32bit.png
+C:\Users\Dan\Downloads\tesseract-master\tesseract-master\Tesseract.Tests.Console\bin\Debug\Data\Binarization\neo-8bit.png
+C:\Users\Dan\Downloads\tesseract-master\tesseract-master\Tesseract.Tests.Console\bin\Debug\Data\Scew\scewed-phototest.png
+C:\Users\Dan\Downloads\tesseract-master\tesseract-master\Tesseract.Tests.Console\bin\Debug\phototest.tif
+C:\Users\Dan\Downloads\tesseract-master\tesseract-master\Tesseract.Tests.Console\bin\Debug\Data\Conversion\photo_grayscale_1bpp.tif
+C:\Users\Dan\Downloads\tesseract-master\tesseract-master\Tesseract.Tests.Console\bin\Debug\Data\Conversion\photo_grayscale_4bpp.tif
+C:\Users\Dan\Downloads\tesseract-master\tesseract-master\Tesseract.Tests.Console\bin\Debug\Data\Conversion\photo_palette_1bpp.tif
+C:\Users\Dan\Downloads\tesseract-master\tesseract-master\Tesseract.Tests.Console\bin\Debug\Data\Conversion\photo_palette_4bpp.tif
+C:\Users\Dan\Downloads\tesseract-master\tesseract-master\Tesseract.Tests.Console\bin\Debug\Data\Conversion\photo_palette_8bpp.tif
+C:\Users\Dan\Downloads\tesseract-master\tesseract-master\Tesseract.Tests.Console\bin\Debug\Data\Conversion\photo_rgb_32bpp.tif
+C:\Users\Dan\Downloads\tesseract-master\tesseract-master\Tesseract.Tests.Console\bin\Debug\Tesseract.Tests.Console.exe.config
+C:\Users\Dan\Downloads\tesseract-master\tesseract-master\Tesseract.Tests.Console\bin\Debug\Tesseract.Tests.Console.exe
+C:\Users\Dan\Downloads\tesseract-master\tesseract-master\Tesseract.Tests.Console\bin\Debug\Tesseract.Tests.Console.pdb
+C:\Users\Dan\Downloads\tesseract-master\tesseract-master\Tesseract.Tests.Console\bin\Debug\Tesseract.dll
+C:\Users\Dan\Downloads\tesseract-master\tesseract-master\Tesseract.Tests.Console\bin\Debug\Tesseract.Tests.dll
+C:\Users\Dan\Downloads\tesseract-master\tesseract-master\Tesseract.Tests.Console\bin\Debug\nunit.framework.dll
+C:\Users\Dan\Downloads\tesseract-master\tesseract-master\Tesseract.Tests.Console\bin\Debug\Tesseract.pdb
+C:\Users\Dan\Downloads\tesseract-master\tesseract-master\Tesseract.Tests.Console\bin\Debug\Tesseract.Tests.pdb
+C:\Users\Dan\Downloads\tesseract-master\tesseract-master\Tesseract.Tests.Console\bin\Debug\nunit.framework.xml
+C:\Users\Dan\Downloads\tesseract-master\tesseract-master\Tesseract.Tests.Console\obj\x86\Debug\Tesseract.Tests.Console.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Downloads\tesseract-master\tesseract-master\Tesseract.Tests.Console\obj\x86\Debug\Tesseract.Tests.Console.exe
+C:\Users\Dan\Downloads\tesseract-master\tesseract-master\Tesseract.Tests.Console\obj\x86\Debug\Tesseract.Tests.Console.pdb
+\\vmware-host\Shared Folders\Desktop\TesseractOCR\Tesseract.Tests.Console\bin\Debug\Tesseract.Tests.Console.exe.config
+\\vmware-host\Shared Folders\Desktop\TesseractOCR\Tesseract.Tests.Console\obj\x86\Debug\Tesseract.Tests.Console.exe
+\\vmware-host\Shared Folders\Desktop\TesseractOCR\Tesseract.Tests.Console\obj\x86\Debug\Tesseract.Tests.Console.pdb
+\\vmware-host\Shared Folders\Desktop\TesseractOCR\Tesseract.Tests.Console\bin\Debug\Tesseract.Tests.Console.exe
+\\vmware-host\Shared Folders\Desktop\TesseractOCR\Tesseract.Tests.Console\bin\Debug\Tesseract.Tests.Console.pdb
+\\vmware-host\Shared Folders\Desktop\TesseractOCR\Tesseract.Tests.Console\bin\Debug\Tesseract.pdb
+\\vmware-host\Shared Folders\Desktop\TesseractOCR\Tesseract.Tests.Console\obj\x86\Debug\Tesseract.Tests.Console.csprojResolveAssemblyReference.cache

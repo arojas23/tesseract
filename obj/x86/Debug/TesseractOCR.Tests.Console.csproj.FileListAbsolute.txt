@@ -1,0 +1,6 @@
+\\vmware-host\Shared Folders\Desktop\TesseractOCR\Tesseract.Tests.Console\bin\Debug\Tesseract.Tests.Console.exe.config
+\\vmware-host\Shared Folders\Desktop\TesseractOCR\Tesseract.Tests.Console\obj\x86\Debug\Tesseract.Tests.Console.exe
+\\vmware-host\Shared Folders\Desktop\TesseractOCR\Tesseract.Tests.Console\obj\x86\Debug\Tesseract.Tests.Console.pdb
+\\vmware-host\Shared Folders\Desktop\TesseractOCR\Tesseract.Tests.Console\bin\Debug\Tesseract.Tests.Console.exe
+\\vmware-host\Shared Folders\Desktop\TesseractOCR\Tesseract.Tests.Console\bin\Debug\Tesseract.Tests.Console.pdb
+\\vmware-host\Shared Folders\Desktop\TesseractOCR\Tesseract.Tests.Console\obj\x86\Debug\TesseractOCR.Tests.Console.csprojResolveAssemblyReference.cache
